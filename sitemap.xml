@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aizihan1314.github.io/post/</loc>
+    <lastmod>2020-09-09T19:55:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aizihan1314.github.io/</loc>
+    <lastmod>2020-09-09T19:55:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aizihan1314.github.io/post/newblog/</loc>
+    <lastmod>2020-09-09T19:55:18+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aizihan1314.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://aizihan1314.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aizihan1314.github.io/</loc>
   </url>
   
 </urlset>
