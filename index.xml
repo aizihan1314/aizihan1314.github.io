@@ -1,46 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>周乃法 - 好好学习天天向上</title>
-    <link>https://aizihan1314.github.io/</link>
-    <description>Recent content on 周乃法 - 好好学习天天向上</description>
+    <title></title>
+    <link>http://aizihan1314.github.io/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2020 08:03:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 15:38:01 +0800</lastBuildDate>
     
-        <atom:link href="https://aizihan1314.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://aizihan1314.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>NewBlog1</title>
+      <link>http://aizihan1314.github.io/post/newblog1/</link>
+      <pubDate>Wed, 16 Sep 2020 15:38:01 +0800</pubDate>
+      
+      <guid>http://aizihan1314.github.io/post/newblog1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bolg3</title>
+      <link>http://aizihan1314.github.io/post/bolg3/</link>
+      <pubDate>Wed, 16 Sep 2020 15:01:26 +0800</pubDate>
+      
+      <guid>http://aizihan1314.github.io/post/bolg3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>基于hugo的发布博客流程</title>
-      <link>https://aizihan1314.github.io/post/blog1/</link>
+      <link>http://aizihan1314.github.io/post/blog1/</link>
       <pubDate>Fri, 11 Sep 2020 08:03:40 +0800</pubDate>
       
-      <guid>https://aizihan1314.github.io/post/blog1/</guid>
-      
-        <description>&lt;p&gt;新建博客markdown文件，并编辑博客内容
-hugo new post/newBlog.md
-–生成静态页面
-hugo &amp;ndash;theme=blackburn &amp;ndash;buildDrafts &amp;ndash;baseUrl=“https://ohohhh.github.io/”
-—发布
-cd public
-git add .
-git commit -m “new blog added”
-git push origin master&lt;/p&gt;
-</description>
-      
+      <guid>http://aizihan1314.github.io/post/blog1/</guid>
+      <description>新建博客markdown文件，并编辑博客内容 hugo new post/newBlog.md –生成静态页面 hugo &amp;ndash;theme=blackburn &amp;ndash;buildDrafts &amp;ndash;baseUrl=“https://ohohhh.github.io/” —发布 cd public git add . git commit -m “new blog added” git push origin master</description>
     </item>
     
     <item>
       <title>第一篇博客</title>
-      <link>https://aizihan1314.github.io/post/newblog/</link>
+      <link>http://aizihan1314.github.io/post/newblog/</link>
       <pubDate>Wed, 09 Sep 2020 19:55:18 +0800</pubDate>
       
-      <guid>https://aizihan1314.github.io/post/newblog/</guid>
-      
-        <description>&lt;p&gt;希望1年后，有个好结果，加油！&lt;/p&gt;
-</description>
-      
+      <guid>http://aizihan1314.github.io/post/newblog/</guid>
+      <description>希望1年后，有个好结果，加油！</description>
     </item>
     
   </channel>
