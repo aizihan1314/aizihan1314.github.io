@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: aizihan1314.github.io/sitemap.xml
+Sitemap: https://aizihan1314.github.io/%27/sitemap.xml
