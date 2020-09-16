@@ -2,47 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://aizihan1314.github.io/post/</link>
+    <link>http:\\aizihan1314,github,io&#34;/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 16 Sep 2020 15:38:01 +0800</lastBuildDate>
     
-	<atom:link href="http://aizihan1314.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http:\\\\aizihan1314,github,io\"/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NewBlog1</title>
-      <link>http://aizihan1314.github.io/post/newblog1/</link>
+      <title>初始化顺序</title>
+      <link>http:\\aizihan1314,github,io&#34;/post/newblog3/</link>
       <pubDate>Wed, 16 Sep 2020 15:38:01 +0800</pubDate>
       
-      <guid>http://aizihan1314.github.io/post/newblog1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bolg3</title>
-      <link>http://aizihan1314.github.io/post/bolg3/</link>
-      <pubDate>Wed, 16 Sep 2020 15:01:26 +0800</pubDate>
-      
-      <guid>http://aizihan1314.github.io/post/bolg3/</guid>
-      <description></description>
+      <guid>http:\\aizihan1314,github,io&#34;/post/newblog3/</guid>
+      <description>父类静态变量= 父类静态代码块 -》子类静态变量 =子类静态代码块-》父类非静态变量-》父类非静态代码块-》父类构造方法-》子类非静态变量-》子类非静态代码块-》子类构造方法）
+当一个Dog类首次被创建，或者这个类的静态方法或者静态字段被首次访问的时候，Java解释器将会在类路径找到Dog.class 在找到class文件之后（会创建一个Class对象，注意是Class对象，不是Dog对象，这里的知识和反射有关）。new或这静态域或者静态方法调用时间所有的static模块都会被运行，并且只被加载一次，即在class对象首次被载入的时候 创建一个new Dog()，会在堆内存为Dog分配一个足够的内存 将Dog 中的所有基本类型设为它们的默认值（零用于数字，以及 boolean 和 char 的等价设定）。 将类中所有引用对象的初始化都会被执行（例如这个对象中有new Cat（），String s = &amp;ldquo;xxx&amp;quot;这种操作，那就会在这一步执行） 执行所有的普通代码块的初始化 执行构造器。这实际可能要求进行相当多的操作，特别是在涉及继承的时候，将会先执行父类 lass StaticDemo{</description>
     </item>
     
     <item>
       <title>基于hugo的发布博客流程</title>
-      <link>http://aizihan1314.github.io/post/blog1/</link>
+      <link>http:\\aizihan1314,github,io&#34;/post/blog1/</link>
       <pubDate>Fri, 11 Sep 2020 08:03:40 +0800</pubDate>
       
-      <guid>http://aizihan1314.github.io/post/blog1/</guid>
+      <guid>http:\\aizihan1314,github,io&#34;/post/blog1/</guid>
       <description>新建博客markdown文件，并编辑博客内容 hugo new post/newBlog.md –生成静态页面 hugo &amp;ndash;theme=blackburn &amp;ndash;buildDrafts &amp;ndash;baseUrl=“https://ohohhh.github.io/” —发布 cd public git add . git commit -m “new blog added” git push origin master</description>
     </item>
     
     <item>
       <title>第一篇博客</title>
-      <link>http://aizihan1314.github.io/post/newblog/</link>
+      <link>http:\\aizihan1314,github,io&#34;/post/newblog/</link>
       <pubDate>Wed, 09 Sep 2020 19:55:18 +0800</pubDate>
       
-      <guid>http://aizihan1314.github.io/post/newblog/</guid>
+      <guid>http:\\aizihan1314,github,io&#34;/post/newblog/</guid>
       <description>希望1年后，有个好结果，加油！</description>
     </item>
     
